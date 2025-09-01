@@ -43,8 +43,8 @@ data like text but limited by vanishing gradients and short memory span.
  2. Transformers:
 Introduced in 'Attention is All You Need' (2017). They use self-attention to capture
 dependencies across sequences in parallel, enabling scaling to billions of parameters.
-Examples include GPT, BERT, and LLaMA.<img width="850" height="765" alt="The-Transformer-model-architecture" src="https://github.com/user-attachments/assets/ef47a303-fb1d-4d33-8535-89ae8ab53e28" />
-                                                                              Transformer Architecture
+Examples include GPT, BERT, and LLaMA.
+<img width="1012" height="698" alt="4f0bc848-5ffa-4bed-a3c1-76dc17a0ce23" src="https://github.com/user-attachments/assets/22e3e395-6f84-4a41-8350-6ddb3e87d6ba" />
 
  4. Diffusion Models: Used for generating
 high-quality images (e.g., DALL·E, Stable Diffusion). They work by iteratively denoising
@@ -63,8 +63,6 @@ learning content, tutoring systems. 6. Business & Productivity: Report generatio
 summarization, and customer service automation.
 
 ### Impact of Scaling in Large Language Models (LLMs)
-![Chinchilla+scaling](https://github.com/user-attachments/assets/c2f2dc44-f76c-4615-82f1-409ea9750287)
-                          Scaling Laws Curve
 1. Scaling Laws: Performance improves predictably as models are scaled in three
 dimensions—model size (parameters), training data volume, compute power.
  2. Emergent Abilities: LLMs demonstrate new capabilities (reasoning, coding, translation) when scaled
@@ -72,6 +70,7 @@ beyond certain thresholds.
 3. Challenges of Scaling: Compute costs, environmental
 concerns, ethical risks such as bias and misinformation.
 4. Future Outlook: Research is moving toward efficiency (smaller but capable models) and hybrid models combining reasoning with generative capabilities.
+<img width="1087" height="795" alt="528a5ae0-53e0-4cf4-a92e-0cd7bdb0c9ff" src="https://github.com/user-attachments/assets/02e535dc-06f6-40d4-9017-775a2f97a2cd" />
 
 ### Conclusion
 Generative AI represents a transformative shift in artificial intelligence by enabling
